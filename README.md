@@ -1,2 +1,2 @@
 # pythonlasha
-My first repository om GitHub
+My first repository on GitHub
